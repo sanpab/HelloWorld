@@ -1,3 +1,3 @@
-cd C:\Users\sanpab\git\LocalHelloWorldRepository\JavaHelloWorld\src
+cd src
 javac HelloWorld/Main.java
 java HelloWorld.Main
